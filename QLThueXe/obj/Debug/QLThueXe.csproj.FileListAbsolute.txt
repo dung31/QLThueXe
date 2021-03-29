@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.exe.config
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.exe
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\bin\Debug\QLThueXe.pdb
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.Form1.resources
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.exe
+C:\Users\ASUS\source\repos\QLThueXe\QLThueXe\obj\Debug\QLThueXe.pdb
